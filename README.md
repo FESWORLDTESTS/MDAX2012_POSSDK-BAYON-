@@ -1,0 +1,2 @@
+# MDAX2012_POSSDK-BAYON-
+SDK del POS de Dynamics 2012 BAYON
