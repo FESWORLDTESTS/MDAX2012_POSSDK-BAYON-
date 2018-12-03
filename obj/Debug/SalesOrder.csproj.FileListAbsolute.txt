@@ -1,0 +1,105 @@
+C:\Users\dpulido\Desktop\Dynamics_AX_2012_R3\Services\SalesOrder\obj\Debug\SalesOrder.csprojResolveAssemblyReference.cache
+C:\Users\dpulido\Desktop\Dynamics_AX_2012_R3\Services\SalesOrder\obj\Debug\Microsoft.Dynamics.Retail.Pos.SalesOrder.Properties.Resources.resources
+C:\Users\dpulido\Desktop\Dynamics_AX_2012_R3\Services\SalesOrder\obj\Debug\Microsoft.Dynamics.Retail.Pos.SalesOrder.WinFormsTouch.frmGetSalesInvoices.resources
+C:\Users\dpulido\Desktop\Dynamics_AX_2012_R3\Services\SalesOrder\obj\Debug\Microsoft.Dynamics.Retail.Pos.SalesOrder.WinFormsTouch.formDeliveryMethod.resources
+C:\Users\dpulido\Desktop\Dynamics_AX_2012_R3\Services\SalesOrder\obj\Debug\Microsoft.Dynamics.Retail.Pos.SalesOrder.WinFormsTouch.frmGetSalesOrder.resources
+C:\Users\dpulido\Desktop\Dynamics_AX_2012_R3\Services\SalesOrder\obj\Debug\Microsoft.Dynamics.Retail.Pos.SalesOrder.WinFormsTouch.formOrderDetails.resources
+C:\Users\dpulido\Desktop\Dynamics_AX_2012_R3\Services\SalesOrder\obj\Debug\Microsoft.Dynamics.Retail.Pos.SalesOrder.WinFormsTouch.formOrderDetailsSelection.resources
+C:\Users\dpulido\Desktop\Dynamics_AX_2012_R3\Services\SalesOrder\obj\Debug\Microsoft.Dynamics.Retail.Pos.SalesOrder.WinFormsTouch.formPickupInformation.resources
+C:\Users\dpulido\Desktop\Dynamics_AX_2012_R3\Services\SalesOrder\obj\Debug\Microsoft.Dynamics.Retail.Pos.SalesOrder.WinFormsTouch.frmSalesOrder.resources
+C:\Users\dpulido\Desktop\Dynamics_AX_2012_R3\Services\SalesOrder\obj\Debug\Microsoft.Dynamics.Retail.Pos.SalesOrder.WinFormsTouch.formShippingInformation.resources
+C:\Users\dpulido\Desktop\Dynamics_AX_2012_R3\Services\SalesOrder\obj\Debug\Microsoft.Dynamics.Retail.Pos.SalesOrder.WinFormsTouch.OrderDetailsPages.CancellationChargePage.resources
+C:\Users\dpulido\Desktop\Dynamics_AX_2012_R3\Services\SalesOrder\obj\Debug\Microsoft.Dynamics.Retail.Pos.SalesOrder.WinFormsTouch.OrderDetailsPages.CustomerInformationPage.resources
+C:\Users\dpulido\Desktop\Dynamics_AX_2012_R3\Services\SalesOrder\obj\Debug\Microsoft.Dynamics.Retail.Pos.SalesOrder.WinFormsTouch.OrderDetailsPages.DeliveryInformationPage.resources
+C:\Users\dpulido\Desktop\Dynamics_AX_2012_R3\Services\SalesOrder\obj\Debug\Microsoft.Dynamics.Retail.Pos.SalesOrder.WinFormsTouch.OrderDetailsPages.ItemDetailsPage.resources
+C:\Users\dpulido\Desktop\Dynamics_AX_2012_R3\Services\SalesOrder\obj\Debug\Microsoft.Dynamics.Retail.Pos.SalesOrder.WinFormsTouch.OrderDetailsNavigationBar.resources
+C:\Users\dpulido\Desktop\Dynamics_AX_2012_R3\Services\SalesOrder\obj\Debug\Microsoft.Dynamics.Retail.Pos.SalesOrder.WinFormsTouch.OrderDetailsPages.OrderDetailsPage.resources
+C:\Users\dpulido\Desktop\Dynamics_AX_2012_R3\Services\SalesOrder\obj\Debug\Microsoft.Dynamics.Retail.Pos.SalesOrder.WinFormsTouch.OrderDetailsPages.OrderInformationPage.resources
+C:\Users\dpulido\Desktop\Dynamics_AX_2012_R3\Services\SalesOrder\obj\Debug\Microsoft.Dynamics.Retail.Pos.SalesOrder.WinFormsTouch.OrderDetailsPages.OrderSummaryPage.resources
+C:\Users\dpulido\Desktop\Dynamics_AX_2012_R3\Services\SalesOrder\obj\Debug\Microsoft.Dynamics.Retail.Pos.SalesOrder.WinFormsTouch.OrderDetailsPages.OrderTypePopup.resources
+C:\Users\dpulido\Desktop\Dynamics_AX_2012_R3\Services\SalesOrder\obj\Debug\Microsoft.Dynamics.Retail.Pos.SalesOrder.WinFormsTouch.OrderDetailsPages.PaymentHistoryPage.resources
+C:\Users\dpulido\Desktop\Dynamics_AX_2012_R3\Services\SalesOrder\obj\Debug\SalesOrder.csproj.GenerateResource.Cache
+C:\Users\dpulido\Desktop\Dynamics_AX_2012_R3\Services\SalesOrder\obj\Debug\SalesOrder.dll
+C:\Users\dpulido\Desktop\Dynamics_AX_2012_R3\Services\SalesOrder\obj\Debug\SalesOrder.pdb
+C:\Users\AxAdmin\Documents\Artell\POS\bin\Debug\SalesOrder.dll
+C:\Users\AxAdmin\Documents\Artell\POS\bin\Debug\SalesOrder.pdb
+C:\Users\AxAdmin\Documents\Artell\Services\SalesOrder\obj\Debug\SalesOrder.csprojResolveAssemblyReference.cache
+C:\Users\AxAdmin\Documents\Artell\Services\SalesOrder\obj\Debug\Microsoft.Dynamics.Retail.Pos.SalesOrder.Properties.Resources.resources
+C:\Users\AxAdmin\Documents\Artell\Services\SalesOrder\obj\Debug\Microsoft.Dynamics.Retail.Pos.SalesOrder.WinFormsTouch.frmGetSalesInvoices.resources
+C:\Users\AxAdmin\Documents\Artell\Services\SalesOrder\obj\Debug\Microsoft.Dynamics.Retail.Pos.SalesOrder.WinFormsTouch.formDeliveryMethod.resources
+C:\Users\AxAdmin\Documents\Artell\Services\SalesOrder\obj\Debug\Microsoft.Dynamics.Retail.Pos.SalesOrder.WinFormsTouch.frmGetSalesOrder.resources
+C:\Users\AxAdmin\Documents\Artell\Services\SalesOrder\obj\Debug\Microsoft.Dynamics.Retail.Pos.SalesOrder.WinFormsTouch.formOrderDetails.resources
+C:\Users\AxAdmin\Documents\Artell\Services\SalesOrder\obj\Debug\Microsoft.Dynamics.Retail.Pos.SalesOrder.WinFormsTouch.formOrderDetailsSelection.resources
+C:\Users\AxAdmin\Documents\Artell\Services\SalesOrder\obj\Debug\Microsoft.Dynamics.Retail.Pos.SalesOrder.WinFormsTouch.formPickupInformation.resources
+C:\Users\AxAdmin\Documents\Artell\Services\SalesOrder\obj\Debug\Microsoft.Dynamics.Retail.Pos.SalesOrder.WinFormsTouch.frmSalesOrder.resources
+C:\Users\AxAdmin\Documents\Artell\Services\SalesOrder\obj\Debug\Microsoft.Dynamics.Retail.Pos.SalesOrder.WinFormsTouch.formShippingInformation.resources
+C:\Users\AxAdmin\Documents\Artell\Services\SalesOrder\obj\Debug\Microsoft.Dynamics.Retail.Pos.SalesOrder.WinFormsTouch.OrderDetailsPages.CancellationChargePage.resources
+C:\Users\AxAdmin\Documents\Artell\Services\SalesOrder\obj\Debug\Microsoft.Dynamics.Retail.Pos.SalesOrder.WinFormsTouch.OrderDetailsPages.CustomerInformationPage.resources
+C:\Users\AxAdmin\Documents\Artell\Services\SalesOrder\obj\Debug\Microsoft.Dynamics.Retail.Pos.SalesOrder.WinFormsTouch.OrderDetailsPages.DeliveryInformationPage.resources
+C:\Users\AxAdmin\Documents\Artell\Services\SalesOrder\obj\Debug\Microsoft.Dynamics.Retail.Pos.SalesOrder.WinFormsTouch.OrderDetailsPages.ItemDetailsPage.resources
+C:\Users\AxAdmin\Documents\Artell\Services\SalesOrder\obj\Debug\Microsoft.Dynamics.Retail.Pos.SalesOrder.WinFormsTouch.OrderDetailsNavigationBar.resources
+C:\Users\AxAdmin\Documents\Artell\Services\SalesOrder\obj\Debug\Microsoft.Dynamics.Retail.Pos.SalesOrder.WinFormsTouch.OrderDetailsPages.OrderDetailsPage.resources
+C:\Users\AxAdmin\Documents\Artell\Services\SalesOrder\obj\Debug\Microsoft.Dynamics.Retail.Pos.SalesOrder.WinFormsTouch.OrderDetailsPages.OrderInformationPage.resources
+C:\Users\AxAdmin\Documents\Artell\Services\SalesOrder\obj\Debug\Microsoft.Dynamics.Retail.Pos.SalesOrder.WinFormsTouch.OrderDetailsPages.OrderSummaryPage.resources
+C:\Users\AxAdmin\Documents\Artell\Services\SalesOrder\obj\Debug\Microsoft.Dynamics.Retail.Pos.SalesOrder.WinFormsTouch.OrderDetailsPages.OrderTypePopup.resources
+C:\Users\AxAdmin\Documents\Artell\Services\SalesOrder\obj\Debug\Microsoft.Dynamics.Retail.Pos.SalesOrder.WinFormsTouch.OrderDetailsPages.PaymentHistoryPage.resources
+C:\Users\AxAdmin\Documents\Artell\Services\SalesOrder\obj\Debug\SalesOrder.csproj.GenerateResource.Cache
+C:\Users\AxAdmin\Documents\Artell\Services\SalesOrder\obj\Debug\SalesOrder.dll
+C:\Users\AxAdmin\Documents\Artell\Services\SalesOrder\obj\Debug\SalesOrder.pdb
+C:\Users\ABARQUERO\Desktop\BayonArtell\POS\bin\Debug\SalesOrder.dll
+C:\Users\ABARQUERO\Desktop\BayonArtell\POS\bin\Debug\SalesOrder.pdb
+C:\Users\ABARQUERO\Desktop\BayonArtell\POS\bin\Debug\Services\SalesOrder.dll
+C:\Users\ABARQUERO\Desktop\BayonArtell\POS\bin\Debug\Services\SalesOrder.pdb
+C:\Users\ABARQUERO\Desktop\BayonArtell\Proyecto Bayon-Artell\Services\SalesOrder\obj\Debug\SalesOrder.csprojResolveAssemblyReference.cache
+C:\Users\ABARQUERO\Desktop\BayonArtell\Proyecto Bayon-Artell\Services\SalesOrder\obj\Debug\Microsoft.Dynamics.Retail.Pos.SalesOrder.Properties.Resources.resources
+C:\Users\ABARQUERO\Desktop\BayonArtell\Proyecto Bayon-Artell\Services\SalesOrder\obj\Debug\Microsoft.Dynamics.Retail.Pos.SalesOrder.WinFormsTouch.frmGetSalesInvoices.resources
+C:\Users\ABARQUERO\Desktop\BayonArtell\Proyecto Bayon-Artell\Services\SalesOrder\obj\Debug\Microsoft.Dynamics.Retail.Pos.SalesOrder.WinFormsTouch.formDeliveryMethod.resources
+C:\Users\ABARQUERO\Desktop\BayonArtell\Proyecto Bayon-Artell\Services\SalesOrder\obj\Debug\Microsoft.Dynamics.Retail.Pos.SalesOrder.WinFormsTouch.frmGetSalesOrder.resources
+C:\Users\ABARQUERO\Desktop\BayonArtell\Proyecto Bayon-Artell\Services\SalesOrder\obj\Debug\Microsoft.Dynamics.Retail.Pos.SalesOrder.WinFormsTouch.formOrderDetails.resources
+C:\Users\ABARQUERO\Desktop\BayonArtell\Proyecto Bayon-Artell\Services\SalesOrder\obj\Debug\Microsoft.Dynamics.Retail.Pos.SalesOrder.WinFormsTouch.formOrderDetailsSelection.resources
+C:\Users\ABARQUERO\Desktop\BayonArtell\Proyecto Bayon-Artell\Services\SalesOrder\obj\Debug\Microsoft.Dynamics.Retail.Pos.SalesOrder.WinFormsTouch.formPickupInformation.resources
+C:\Users\ABARQUERO\Desktop\BayonArtell\Proyecto Bayon-Artell\Services\SalesOrder\obj\Debug\Microsoft.Dynamics.Retail.Pos.SalesOrder.WinFormsTouch.frmSalesOrder.resources
+C:\Users\ABARQUERO\Desktop\BayonArtell\Proyecto Bayon-Artell\Services\SalesOrder\obj\Debug\Microsoft.Dynamics.Retail.Pos.SalesOrder.WinFormsTouch.formShippingInformation.resources
+C:\Users\ABARQUERO\Desktop\BayonArtell\Proyecto Bayon-Artell\Services\SalesOrder\obj\Debug\Microsoft.Dynamics.Retail.Pos.SalesOrder.WinFormsTouch.OrderDetailsPages.CancellationChargePage.resources
+C:\Users\ABARQUERO\Desktop\BayonArtell\Proyecto Bayon-Artell\Services\SalesOrder\obj\Debug\Microsoft.Dynamics.Retail.Pos.SalesOrder.WinFormsTouch.OrderDetailsPages.CustomerInformationPage.resources
+C:\Users\ABARQUERO\Desktop\BayonArtell\Proyecto Bayon-Artell\Services\SalesOrder\obj\Debug\Microsoft.Dynamics.Retail.Pos.SalesOrder.WinFormsTouch.OrderDetailsPages.DeliveryInformationPage.resources
+C:\Users\ABARQUERO\Desktop\BayonArtell\Proyecto Bayon-Artell\Services\SalesOrder\obj\Debug\Microsoft.Dynamics.Retail.Pos.SalesOrder.WinFormsTouch.OrderDetailsPages.ItemDetailsPage.resources
+C:\Users\ABARQUERO\Desktop\BayonArtell\Proyecto Bayon-Artell\Services\SalesOrder\obj\Debug\Microsoft.Dynamics.Retail.Pos.SalesOrder.WinFormsTouch.OrderDetailsNavigationBar.resources
+C:\Users\ABARQUERO\Desktop\BayonArtell\Proyecto Bayon-Artell\Services\SalesOrder\obj\Debug\Microsoft.Dynamics.Retail.Pos.SalesOrder.WinFormsTouch.OrderDetailsPages.OrderDetailsPage.resources
+C:\Users\ABARQUERO\Desktop\BayonArtell\Proyecto Bayon-Artell\Services\SalesOrder\obj\Debug\Microsoft.Dynamics.Retail.Pos.SalesOrder.WinFormsTouch.OrderDetailsPages.OrderInformationPage.resources
+C:\Users\ABARQUERO\Desktop\BayonArtell\Proyecto Bayon-Artell\Services\SalesOrder\obj\Debug\Microsoft.Dynamics.Retail.Pos.SalesOrder.WinFormsTouch.OrderDetailsPages.OrderSummaryPage.resources
+C:\Users\ABARQUERO\Desktop\BayonArtell\Proyecto Bayon-Artell\Services\SalesOrder\obj\Debug\Microsoft.Dynamics.Retail.Pos.SalesOrder.WinFormsTouch.OrderDetailsPages.OrderTypePopup.resources
+C:\Users\ABARQUERO\Desktop\BayonArtell\Proyecto Bayon-Artell\Services\SalesOrder\obj\Debug\Microsoft.Dynamics.Retail.Pos.SalesOrder.WinFormsTouch.OrderDetailsPages.PaymentHistoryPage.resources
+C:\Users\ABARQUERO\Desktop\BayonArtell\Proyecto Bayon-Artell\Services\SalesOrder\obj\Debug\SalesOrder.csproj.GenerateResource.Cache
+C:\Users\ABARQUERO\Desktop\BayonArtell\Proyecto Bayon-Artell\Services\SalesOrder\obj\Debug\SalesOrder.dll
+C:\Users\ABARQUERO\Desktop\BayonArtell\Proyecto Bayon-Artell\Services\SalesOrder\obj\Debug\SalesOrder.pdb
+C:\Users\ABarquero\Desktop\Services\SalesOrder\obj\Debug\Microsoft.Dynamics.Retail.Pos.SalesOrder.Properties.Resources.resources
+C:\Users\ABarquero\Desktop\Services\SalesOrder\obj\Debug\Microsoft.Dynamics.Retail.Pos.SalesOrder.WinFormsTouch.frmGetSalesInvoices.resources
+C:\Users\ABarquero\Desktop\Services\SalesOrder\obj\Debug\Microsoft.Dynamics.Retail.Pos.SalesOrder.WinFormsTouch.formDeliveryMethod.resources
+C:\Users\ABarquero\Desktop\Services\SalesOrder\obj\Debug\Microsoft.Dynamics.Retail.Pos.SalesOrder.WinFormsTouch.frmGetSalesOrder.resources
+C:\Users\ABarquero\Desktop\Services\SalesOrder\obj\Debug\Microsoft.Dynamics.Retail.Pos.SalesOrder.WinFormsTouch.formOrderDetails.resources
+C:\Users\ABarquero\Desktop\Services\SalesOrder\obj\Debug\Microsoft.Dynamics.Retail.Pos.SalesOrder.WinFormsTouch.formOrderDetailsSelection.resources
+C:\Users\ABarquero\Desktop\Services\SalesOrder\obj\Debug\Microsoft.Dynamics.Retail.Pos.SalesOrder.WinFormsTouch.formPickupInformation.resources
+C:\Users\ABarquero\Desktop\Services\SalesOrder\obj\Debug\Microsoft.Dynamics.Retail.Pos.SalesOrder.WinFormsTouch.frmSalesOrder.resources
+C:\Users\ABarquero\Desktop\Services\SalesOrder\obj\Debug\Microsoft.Dynamics.Retail.Pos.SalesOrder.WinFormsTouch.formShippingInformation.resources
+C:\Users\ABarquero\Desktop\Services\SalesOrder\obj\Debug\Microsoft.Dynamics.Retail.Pos.SalesOrder.WinFormsTouch.OrderDetailsPages.CancellationChargePage.resources
+C:\Users\ABarquero\Desktop\Services\SalesOrder\obj\Debug\Microsoft.Dynamics.Retail.Pos.SalesOrder.WinFormsTouch.OrderDetailsPages.CustomerInformationPage.resources
+C:\Users\ABarquero\Desktop\Services\SalesOrder\obj\Debug\Microsoft.Dynamics.Retail.Pos.SalesOrder.WinFormsTouch.OrderDetailsPages.DeliveryInformationPage.resources
+C:\Users\ABarquero\Desktop\Services\SalesOrder\obj\Debug\Microsoft.Dynamics.Retail.Pos.SalesOrder.WinFormsTouch.OrderDetailsPages.ItemDetailsPage.resources
+C:\Users\ABarquero\Desktop\Services\SalesOrder\obj\Debug\Microsoft.Dynamics.Retail.Pos.SalesOrder.WinFormsTouch.OrderDetailsNavigationBar.resources
+C:\Users\ABarquero\Desktop\Services\SalesOrder\obj\Debug\Microsoft.Dynamics.Retail.Pos.SalesOrder.WinFormsTouch.OrderDetailsPages.OrderDetailsPage.resources
+C:\Users\ABarquero\Desktop\Services\SalesOrder\obj\Debug\Microsoft.Dynamics.Retail.Pos.SalesOrder.WinFormsTouch.OrderDetailsPages.OrderInformationPage.resources
+C:\Users\ABarquero\Desktop\Services\SalesOrder\obj\Debug\Microsoft.Dynamics.Retail.Pos.SalesOrder.WinFormsTouch.OrderDetailsPages.OrderSummaryPage.resources
+C:\Users\ABarquero\Desktop\Services\SalesOrder\obj\Debug\Microsoft.Dynamics.Retail.Pos.SalesOrder.WinFormsTouch.OrderDetailsPages.OrderTypePopup.resources
+C:\Users\ABarquero\Desktop\Services\SalesOrder\obj\Debug\Microsoft.Dynamics.Retail.Pos.SalesOrder.WinFormsTouch.OrderDetailsPages.PaymentHistoryPage.resources
+C:\Users\ABarquero\Desktop\Services\SalesOrder\obj\Debug\SalesOrder.csproj.GenerateResource.Cache
+C:\Users\ABarquero\Desktop\Services\SalesOrder\obj\Debug\SalesOrder.csprojResolveAssemblyReference.cache
+C:\Users\ABarquero\POS\bin\Debug\Services\SalesOrder.dll
+C:\Users\ABarquero\POS\bin\Debug\Services\SalesOrder.pdb
+C:\Users\ABarquero\Desktop\Services\SalesOrder\obj\Debug\SalesOrder.dll
+C:\Users\ABarquero\Desktop\Services\SalesOrder\obj\Debug\SalesOrder.pdb
+C:\Users\ABarquero\Desktop\Prueba\SalesOrder.dll
+C:\Users\ABarquero\Desktop\Prueba\SalesOrder.pdb
+C:\Program Files (x86)\Microsoft Dynamics AX\60\Retail POS\Services\Extensions\SalesOrder.dll
+C:\Program Files (x86)\Microsoft Dynamics AX\60\Retail POS\Services\Extensions\SalesOrder.pdb
+C:\Users\ABARQUERO\Desktop\Services\SalesOrder\obj\Debug\SalesOrder.dll.licenses
